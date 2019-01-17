@@ -6,7 +6,7 @@ Add Slack API Token to url in invite.sh
 Add Slack Channel ID to url in invite.sh
 
 propably 
-## `chmod u+x invite.sh`
+`chmod u+x invite.sh`
 
 execute 
-## `./invite.sh`
+`./invite.sh`
